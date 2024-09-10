@@ -1,3 +1,3 @@
 package egzamin03
 
-// To jest komentarz z github
+// to jest test komentrza
